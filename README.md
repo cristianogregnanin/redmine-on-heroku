@@ -1,5 +1,5 @@
 
-# Redmine 3.2 on Heroku
+# Redmine 3.4 on Heroku
 
 <img src="https://cloud.githubusercontent.com/assets/296432/3865668/0fbd67c8-1fa3-11e4-9d4e-b33353725c60.png" width="75"/>
 
